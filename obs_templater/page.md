@@ -1,6 +1,7 @@
 ---
 title: page template
 layout: meth
+nav_exclude: true
 ---
 # page template
 {: .no_toc }

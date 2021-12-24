@@ -1,0 +1,2 @@
+# blog
+some random notes

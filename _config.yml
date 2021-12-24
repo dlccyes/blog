@@ -3,7 +3,8 @@ remote_theme: pmarsceill/just-the-docs
 #theme: "just-the-docs" #enabling it when using github page might lead to failure
 markdown: kramdown
 
-color_scheme: dark
+#color_scheme: dark
+color_scheme: beut
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link

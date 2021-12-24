@@ -1,22 +1,28 @@
+$body-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
+$root-font-size: 18px !default; // Base font-size for rems
 $body-line-height: 1.8 !default;
+$content-line-height: 1.6 !default;
+$body-heading-line-height: 1.25 !default;
 
-$purp: #1c1539 !default;
-$purp_trans: #5358a8a3 !default;
-$white_dim: #e5e5e5 !default;
-$white: #f5f6fa !default;
-$pink: #ffcdcd !default;
+//$purp: #1c1539 !default;
+//$purp_trans: #5358a8a3 !default;
+//$white_dim: #e5e5e5 !default;
+//$white: #f5f6fa !default;
+//$pink: #ffcdcd !default;
 
-$body-background-color: $purp !default;
-$sidebar-color: $purp !default;
-$search-background-color: $purp_trans !default;
-$table-background-color: $purp_trans !default;
-$code-background-color: $purp_trans !default;
+$body-background-color: #1c1539 !default;
+$sidebar-color: #1c1539 !default;
+$search-background-color: #5358a8a3 !default;
+$table-background-color: #5358a8a3 !default;
+$code-background-color: #5358a8a3 !default;
 //$feedback-color: darken($sidebar-color, 3%) !default;
 
-$body-text-color: $white_dim !default;
-$body-heading-color: $white !default;
-$search-result-preview-color: $white_dim !default;
-$nav-child-link-color: $white_dim !default;
-$link-color: $pink !default;
-$btn-primary-color: $pink !default;
-$base-button-color: $pink !default;
+$body-text-color: #e5e5e5 !default;
+$body-heading-color: #f5f6fa !default;
+$search-result-preview-color: #e5e5e5 !default;
+$nav-child-link-color: #e5e5e5 !default;
+$link-color: #ffcdcd !default;
+$btn-primary-color: #ffcdcd !default;
+$base-button-color: #ffcdcd !default;

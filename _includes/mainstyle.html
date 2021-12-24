@@ -1,0 +1,133 @@
+<style>
+	:root {
+	  --purp: #1c1539;
+	  --purp-trans: #5358a8a3;
+	  --white-dim: #e5e5e5;
+	  --white: #f5f6fa;
+	  --pink: #ffcdcd;		
+	}
+	body {
+		color: var(--white-dim);
+	    background: var(--purp);
+	    font-size: 18px;
+	    line-height: 2em;
+	}
+	p {
+	    line-height: 2em;
+	}
+	h1, h2, h3, h4, h5, h6 {
+		color: var(--white);
+	}
+	main {
+		margin-left: 248px;
+	}
+	img {
+			border-radius: 20px;
+	}
+	/*scrollbar*/
+		html {
+			/*scrollbar for firefox*/
+			scrollbar-width: thin;
+			/*scrollbar-color: #616161 #1c1c1c;*/
+		}
+		/*scrollbar for chrome*/
+		::-webkit-scrollbar {
+			width: 6px;
+		/*     background: #1e1e1ed9; */
+		}
+		::-webkit-scrollbar-track {
+		/*     -webkit-border-radius: 10px; */
+			/*border-radius: 10px;*/
+			/*margin:80px 0 5px 0;*/
+		}
+		::-webkit-scrollbar-thumb {
+			-webkit-border-radius: 4px;
+			/*border-radius: 4px;*/
+			background: #c2c2c2;
+		}
+
+    /*just the docs*/
+    .site-footer {
+    	display: none;
+    }
+
+    /*link*/
+    a {
+	    color: var(--pink);
+	    text-decoration: none !important;
+	}
+	a:hover {
+		/*text-decoration: underline;*/
+		color: #fdd;
+	}
+	a:not([class]), a:not([class]):hover {
+	    text-decoration: none !important;
+	    background-size: 0;
+	}
+
+
+    /*sidebar*/
+	    .side-bar {
+	    	background-color: #390101;
+	    	border-right: 1px solid #000;
+	    	width: 248px !important;
+	    }
+/*	    .side-bar, .site-nav, .site-header, .site-footer {
+	    	width: 100% !important;
+	    }*/
+	    .site-header {
+	    	border-bottom: 0px solid #000;
+	    }
+	    /*sidebar title*/
+	    .site-title {
+	    	color: var(--white)	;
+	    }
+		.site-title:hover {
+		    background: #fff3;
+		}
+	    /*sidebar text*/
+	    .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+		    color: var(--white-dim);
+		}
+	    /*sidebar selected*/
+	    .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+		    background: #9b1c1ca8;
+		}
+		/*little arrow*/
+		.nav-list .nav-list-item .nav-list-expander:hover {
+		    background: #fff0;
+		}
+	/*search*/
+		.search, .search-input {
+			/*background-color: #1e2155;*/
+			background-color: var(--purp);
+			color: #fff;
+		}
+		.main-header {
+			border-bottom: 1px solid #000;
+		}
+		.search-active .search-input, .search-results {
+		    background-color: #18165ad1;
+		    color: var(--white-dim);
+		}
+		/*hover or focus result*/
+		.search-result:hover, .search-result.active {
+			background-color: #bd3b3b9e;
+		}
+		.search-result-rel-url { 
+		    color: var(--white-dim);
+		}
+		/*little texts*/
+		.search-result-previews {
+		    color: var(--white-dim);
+		}
+		.site-button:hover {
+		    background: #ffffff3d;
+		}
+
+    /*codeblock*/
+    [class*="language"] {
+        border-radius: 15px !important;
+    }
+
+</style>

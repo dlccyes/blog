@@ -40,25 +40,20 @@
 			border-radius: 20px;
 	}
 	/*scrollbar*/
+		/*scrollbar for firefox*/
 		html {
-			/*scrollbar for firefox*/
 			scrollbar-width: thin;
-			/*scrollbar-color: #616161 #1c1c1c;*/
+			scrollbar-color: #616161 #1c1c1c;
 		}
 		/*scrollbar for chrome*/
 		::-webkit-scrollbar {
 			width: 6px;
-		/*     background: #1e1e1ed9; */
-		}
-		::-webkit-scrollbar-track {
-		/*     -webkit-border-radius: 10px; */
-			/*border-radius: 10px;*/
-			/*margin:80px 0 5px 0;*/
-		}
+	    	background: #1e1e1ed9; 
+		}	
 		::-webkit-scrollbar-thumb {
 			-webkit-border-radius: 4px;
-			/*border-radius: 4px;*/
-			background: #c2c2c2;
+			border-radius: 4px;
+			background: #5d5d5d;
 		}
 
     /*just the docs*/
@@ -130,7 +125,7 @@
 			background-color: transparent;
 		}
 		.search-active .search-input, .search-results {
-		    background-color: #28257978;
+		    background-color: #211f62d9;
 		    color: var(--white-dim);
 		}
 		.search-active .search-input-wrap {
@@ -146,6 +141,8 @@
 		/*little texts*/
 		.search-result-previews {
 		    color: var(--white-dim);
+		    border-left: 2px solid;
+			border-left-color: #ffd5d578;
 		}
 		.site-button:hover {
 		    background: #ffffff3d;

@@ -11,6 +11,8 @@
 	    background: var(--purp);
 	    font-size: 18px;
 	    line-height: 2em;
+	    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://i.imgur.com/C90lb3z.jpg" ) !important;
+		background-size: cover;
 	}
 	p {
 	    line-height: 2em;
@@ -20,6 +22,10 @@
 	}
 	main {
 		margin-left: 248px;
+	}
+	/*heading link icon*/
+	.main-content .anchor-heading svg {
+	    color: var(--pink);
 	}
 	img {
 			border-radius: 20px;
@@ -68,8 +74,8 @@
 
     /*sidebar*/
 	    .side-bar {
-	    	background-color: #390101;
-	    	border-right: 1px solid #000;
+	    	background-color: #a22e2e4f;
+	    	border-right: 0px solid #000;
 	    	width: 248px !important;
 	    }
 /*	    .side-bar, .site-nav, .site-header, .site-footer {
@@ -91,7 +97,8 @@
 		}
 	    /*sidebar selected*/
 	    .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
-		    background: #9b1c1ca8;
+		    background: #b93f3f70;
+			border-radius: 10px;
 		}
 		/*little arrow*/
 		.nav-list .nav-list-item .nav-list-expander {
@@ -103,20 +110,26 @@
 
 	/*search*/
 		.search, .search-input {
-			/*background-color: #1e2155;*/
-			background-color: var(--purp);
+			background-color: transparent;
 			color: #fff;
 		}
+		.search-input:focus + .search-label .search-icon {
+		    color: var(--pink);
+		}
 		.main-header {
-			border-bottom: 1px solid #000;
+			border-bottom: 0px solid #000;
+			background-color: transparent;
 		}
 		.search-active .search-input, .search-results {
-		    background-color: #18165ad1;
+		    background-color: #28257978;
 		    color: var(--white-dim);
+		}
+		.search-active .search-input-wrap {
+		    box-shadow: 0 0px 0px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
 		}
 		/*hover or focus result*/
 		.search-result:hover, .search-result.active {
-			background-color: #bd3b3b9e;
+			background-color: #b93b3ba3;
 		}
 		.search-result-rel-url { 
 		    color: var(--white-dim);

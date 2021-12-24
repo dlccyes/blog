@@ -6,7 +6,7 @@ date: 2021-05-07
 # Intent doesn't matter
 
 "What a beautiful piece of work! It perfectly conveys my ideology!"  
-"The author support the opposite ideology."  
+*discover that the author supports the opposite ideology 
 "What an absolute piece of garbage! This trash has no value at all!"
 
 Why the fuck would you care about the author's intent?  What you get from the text shouldn't be affected by what the author is trying to say.

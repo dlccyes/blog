@@ -4,7 +4,6 @@ parent: thoughts
 date: 2021-05-07
 ---
 # Intent doesn't matter
-{{ page.date | date: "%Y-%m-%d" }}
 
 "What a beautiful piece of work! It perfectly conveys my ideology!"  
 "The author support the opposite ideology."  

@@ -1,6 +1,7 @@
 ---
 layout: meth
-parent:
+date: 
+parent: 
 nav_exclude: true
 ---
 # page template

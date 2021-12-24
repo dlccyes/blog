@@ -2,6 +2,8 @@
 layout: default
 ---
 {% include mathjax.html %}
-<!-- {% include switch.html %} -->
+{% if page.date %}
+	<span class="date-txt"> {{ page.date | date: "%Y-%m-%d" }} </span>
+{% endif %}
 {{ content }}
 {% include mainstyle.html %}

@@ -3,10 +3,4 @@ layout: meth
 parent: tags
 ---
 # music
-<ul>
-{% for pp in site.pages %}
-	{% if pp.tags contains page.title %}
-		<li><a href="/blog/{{ pp.url }}">{{ pp.title }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul>
+{% include tag.html %}

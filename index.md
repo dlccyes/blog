@@ -1,6 +1,7 @@
 ---
 layout: meth
 date: 2021-12-25
+nav_order: 1
 ---
 # About this blog
 This blog uses the Jekyll theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/), with some custom additions (like backlinks) and heavy CSS alterations, hosted with Github Page.

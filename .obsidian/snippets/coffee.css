@@ -18,8 +18,12 @@
     --text-highlight-bg: rgb(232 149 106 / 53%); /* search highlight */
     --text-normal: #ead3a7;
 }
+.markdown-source-view.mod-cm6 .cm-scroller, body, .markdown-preview-view blockquote {
+    font-family: "Myuppy";
+}
 body{
 	color: var(--text-normal);
+    font-family: Myuppy;
 }
 /* bullet list i.e. unordered list text color */
 .theme-dark ul > li {

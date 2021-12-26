@@ -10,4 +10,5 @@ I'm crying
 
 I mean, I know [it](https://github.com/dlccyes/obsidian-nebula)'s impressive. I am, in fact,  impressed by it everyday, since it's the Obsidian theme I use. But seeing others enjoying is another thing.
 
-This dude doesn't give me any star tho. So disrespectful.
+This dude didn't give me any star tho. So disrespectful.
+

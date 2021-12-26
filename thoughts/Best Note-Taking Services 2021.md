@@ -4,9 +4,10 @@ date: 2021-12-26
 parent: thoughts
 ---
 # Best Note-Taking Services 2021
+{: .no_toc }
+
 It's unorganized and not sorted by my preference, tho it kind of is.
 
-{: .no_toc }
 <details open markdown="block">
   <summary>
     Outline
@@ -47,15 +48,15 @@ I've also tried Athens like once, but it bugged out when I'm importing my Roam R
 ## Roam Research
 It's pricey, but I created my account (just) before it started monetizing, and somehow it still doesn't charge me afterwards, so I won't complain about it.
 
-I love it, I used it everyday despite it being super laggy and somtimes buggy, until I checked Obsidian again and found out what kind of monster Obsidian had become. (well actually I only started actively using Obsidian when I discovered that I could easily do my own CSS, as the default theme is very meh)
+I love it, I used it everyday despite it being super laggy and somtimes buggy, until I checked out Obsidian again and found out what kind of monster Obsidian had become. (well actually I only started actively using Obsidian when I discovered that I could easily do my own CSS, as the default theme is very meh)
 
-I love it for its highly customizable nature, like the fact that I can just write my own CSS, or just copy paste or write my own jJs inside it and be applied immediately, just blowed my mind. In fact, having my own mesmerizing nebula-themed UI is the main factor that keeps me from leaving roam. Until Obsidian provides all of these features, with an even better way of handling CSS & Js, making it not an absolute advantage anymore. So what's left, is the second, irreplaceable advantage to other markdown editors, the block-based nature.
+I love it for its highly customizable nature, like the fact that I can just write my own CSS, or just copy paste or write my own Js inside it and be applied immediately, just blowed my mind. In fact, having my own mesmerizing nebula-themed UI is the main factor that keeps me from leaving roam. Until Obsidian provides all of these features, with an even better way of handling CSS & Js, making it not an absolute advantage anymore. So what's left, is the second, irreplaceable advantage to other markdown editors, the block-based nature.
 
-I love it for it being block-based. It makes taking notes so easy. Everything is a block, a bullet point, and you can easily reference other block, not the entire note, but that very block, and even embed it, so that it can be edited in another location, how crazy is that?  
+I love it for being block-based. It makes taking notes so easy. Everything is a block, a bullet point, and you can easily reference other block, not the entire note, but that very block, and even embed it, so that it can be edited in another location, how crazy is that?  
 
 Obsidian does have "block" reference too, but as Obsidian is still pure markdown, "heading" reference is as far as it can get, and it can't be edited in where it's referenced. 
 
-To be fair, Notion is still block-based, so I don't see any reason for this not being implemented in the future. In fact, there is a hack that provide the exact same feature, letting you reference and embed a block can be edited, so it will most certainly be added as an official feature in some distant or near future. But for some reason, Notion still does't let you write your own CSS, or at least natively. So until both features are implemented, Roam still beats Notion in terms of pure note-taking.
+To be fair, Notion is also block-based, so I don't see any reason for this not being implemented in the future. In fact, there is a [hack](https://www.notion.vip/create-global-blocks/) that provides the exact same feature, letting you reference and embed a block that can also be edited, so it will most certainly be added as an official feature in some near or maybe distant future (look how long they took to finally implement the simple table). But for some reason, Notion still does't let you write your own CSS, or at least natively. So until both features are implemented, Roam still beats Notion in terms of pure note-taking.
 
 ## Notion
 Notion is a shitty note-taking service, but a decent note-managing tool with its database-like features. More than a database, actually, as you can easily arrange your notes into a kanban board or something else. 

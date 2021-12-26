@@ -37,6 +37,9 @@
     .main-content .anchor-heading svg {
         color: var(--pink);
     }
+    .breadcrumb-nav {
+        user-select: none;
+    }
 
     /*hiccup*/
     hr {
@@ -89,12 +92,25 @@
         background-size: 0;
     }
 
+    /*inline code*/
+    code {
+        font-family: Consolas;
+        font-size: 0.8em;
+        line-height: 1.4;
+        margin-right: .2em;
+        color: #e9eaff !important;
+        background: #5fabe161;
+        border: 0px solid #ddd;
+        padding: 0.2em 0.6em;
+    }
+
 
     /*sidebar*/
         .side-bar {
             background-color: #a22e2e4f;
             border-right: 0px solid #000;
             width: 248px !important;
+            user-select: none;
         }
         /*sidebar scrollbar for firefox*/
         .site-nav {
@@ -112,7 +128,8 @@
             color: var(--white) ;
         }
         .site-title:hover {
-            background: #fff3;
+            background: #c6787e3d;
+            border-radius: 15px;
         }
         /*sidebar text*/
         .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
@@ -143,16 +160,22 @@
             border-bottom: 0px solid #000;
             background-color: transparent;
         }
+        /*search scrollbar*/
+        .search-results {
+            scrollbar-width: thin;
+            scrollbar-color: #71608f5c #1c1c1c00;
+        }
         .search-active .search-input, .search-results {
-            background-color: #211f62d9;
+            background-color: #191751cc;
             color: var(--white-dim);
+            border-radius: 20px;
         }
         .search-active .search-input-wrap {
             box-shadow: 0 0px 0px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
         }
         /*hover or focus result*/
         .search-result:hover, .search-result.active {
-            background-color: #b93b3ba3;
+            background-color: #9e2f2fa3;
         }
         .search-result-rel-url { 
             color: var(--white-dim);

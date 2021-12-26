@@ -6,6 +6,16 @@ parent: thoughts
 # Best Note-Taking Services 2021
 It's unorganized and not sorted by my preference, tho it kind of is.
 
+{: .no_toc }
+<details open markdown="block">
+  <summary>
+    Outline
+  </summary>
+
+- TOC
+{:toc}
+</details>
+
 ## Obsidian
 Obsidian is developing so fast. A year or 2 ago, it's just a shitty markdown editor with no extra features. Today, it provides tons of useful or useless features, while still maintaining it's simple UI. It really is incredibly mature when comparing to Roam Research or Roam Research clones. The settings page, the plugin management system, and the note-editing itself, is just so seemless and bug-free (until Live Preview comes out ....), while in Roam Research and its clones, you can't work for 5 straight minutes without encounter some bugs or serious lags, and you even have to copy paste the full js code to "install" a plugin. Compared to Obsidian, Roam Research and its clones are like kids with so much potential, but have ADHD.
 
@@ -28,7 +38,7 @@ So, IMHO Evernote (legacy) is still not replaceable. It is not the best tool in 
 ## Roam Research clones
 Worse than Roam Research but open-sourced (so they're free and far more transparent with their developments than Roam)
 
-Have only really tried out loqseq, but it's pretty buggy and I hate the way it handles custom CSSs. It forces you to write all your CSS in a single codeblock, while in Roam, you can write them in as many blocks you want, as long as they're in `roam/css`, making it far easier to write your theme, like you can modularize your CSS components and turn some of them off if you suddenly dislike them.
+Have only really tried out loqseq, but it's pretty buggy and I hate the way it handles custom CSSs. It forces you to write all your CSS in a single codeblock, while in Roam, you can write them in as many blocks as you want, as long as they're in `roam/css`, making it far easier to write your theme, like you can modularize your CSS components and turn some of them off if you suddenly dislike them.
 
 Also, the default logseq theme is ugly af.
 

@@ -37,9 +37,9 @@ So the story is a bit of a clickbait. The core story is just about the governmen
 
 Political correctness isn't a bad thing to pursue, but the thing is that, there are many brain-damaged normal people ({people \| IQ>70} - {people \| have functional brain}) out there, and when they participate in political correctness movements or debates, they say many retard things, and with other retards agree with them, they start canceling things. As of this story, just because the whole story is a clickbait, with the title from a meme that is considered transphobic, it caused controversies, and the author is attacked by retards thinking they're advocating for political correctness. What's more hilarious is that, because of the title, it is supported by retards on other sides, namely, the real transphobic side, while the author is actually a trans herself.
 
-So much drama, so much backlash from people who can't read, the author took the story. 
+So much drama, so much backlash from people who can't read, the author even took out the story for some time.
 
-To sum up, a clickbait story that attracts people from both sides, causing controversies, while the story itself is just nothing special.
+To sum up, a clickbait story that attracts attention from both sides, causing controversies, while the story itself is just nothing special.
 
 (I wrote this 6 months after I finished it, so I could get something wrong, despite my best effort to recall. [Here](https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter)'s a lengthy article explaining the whole drama in a fairly neutral POV tho.)
 

@@ -36,11 +36,11 @@ Awards are so fucking weird. This story isn't about representation or some SJW s
 
 plot:
 
-A princess is so beautiful that everyone want to get her. The King could make prince from neighboring countries marry her, but the country is politically sensitive, can't 偏袒 either of the neighboring countries. So the princess and the King decided to lock her on a glass hill, and announced that any man that can go up the hill with full armor can marry her. 
+A princess was so beautiful that everyone wanted to get her. The King could make prince from neighboring countries marry her, but the country was politically sensitive, needed to treat each the neighboring country equally. So the princess and the King decided to lock her on a glass hill, and announced that any man that can go up the hill with full armor could marry her. 
 
-But the glass hill is very weird, very hard to climb up, so the princess had lived on the hill for like 3 years, without facing cold or starvation or whatever because of the magic hill.
+But the glass hill was very weird, very hard to climb up, so the princess had lived on the hill for like 3 years, without facing cold or starvation or whatever because of the magic hill.
 
-One day a woman accidentally walked up the hill. The woman was married to a bear, a half-bear half-man, sometimes a bear sometimes a man. And after they'd married, the bearman frequently abused her. One time she told her mom, her mom told her to burn his bear skin (which is separated when he's in man form???) to lift his curse. The bear found out, and told the women to wear his bear skin (?) and wear 7 iron shoes (one at a time of course) until they've all broken. This way his curse can be lifted.
+One day a woman accidentally walked up the hill. The woman was married to a bear, a half-bear half-man, sometimes a bear sometimes a man. And after they'd married, the bear-man frequently abused her. One time she told her mom, and her mom told her to burn his bear skin (which was separated from his body when he was in man form???) to lift his curse. The bear found out, and told the women to wear his bear skin (?) and 7 iron shoes (one at a time of course) until they were all broken. This way his curse could be lifted.
 
 ......
 

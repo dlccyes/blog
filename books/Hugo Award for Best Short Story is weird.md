@@ -12,14 +12,8 @@ To be fair, I didn't really read winners of Hugo Award for longer stories, becau
 
 Unfortunately, although reading short stories in a quiet room with some chill musics on really gives me some precious peaceful time, most of the stories are very bad, or at least doesn't deserve the award. The following is what I've read:
 
-<details open markdown="block">
-  <summary>
-    Outline
-  </summary>
-
 - TOC
 {:toc}
-</details>
 
 Not all of them are award winners, some are just nominees, "just".  
 

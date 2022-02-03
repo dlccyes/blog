@@ -28,6 +28,13 @@ Below I'll write some thoughts about the courses I took.
 ## Introduction to Computer Networks
 
 ## Algorithms
+The loading of this course isn't nearly as hard as what it's said to be, because the homework seemed to be only half of the previous years. It isn't really difficult too. I barely payed attention in class, but when I was doing homework, I can get familiar with the concept and techniques by reading some online articles. 
+
+The exams are really easy also, the average score was like 70+, while mandatory courses before like Microelectronics and Electromagnetism have average score of 50 or so.
+
+Programming assignment tho, is hard to say. There are 3 PAs. The first one is merely implementing basic sorting algorithms. The second is a LC medium level dp problem, but it requires some very great optimization, because the largest test case is super large (n=18k while the algo is O(n^2)), and you have to run it in under 10 min. to get credit. And time is not the only problem. Space complexity is also O(n^2), and you'll have to squeeze it very hard to make it not using all the memory on the workstation. The third is a graph problem, the goal is to make the given graph acyclic by breaking edges with min total weight of edges broke, and for weighted directed graph, it's NP-hard, so the grading for that case is by what min weight you achieve in efficient time.
+
+Overall, it's definitely not the hardest nor the heaviest course I've ever taken, not even among the courses I took this semester.
 
 ## Electrical Engineering Lab (biomedical Engineering) 
 

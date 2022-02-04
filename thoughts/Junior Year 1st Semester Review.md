@@ -1,7 +1,7 @@
 ---
 layout: meth
 date: 2022-02-01
-parent: random
+parent: thoughts
 ---
 # Junior Year 1st Semester Review
 {: .no_toc }

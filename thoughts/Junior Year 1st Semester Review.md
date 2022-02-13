@@ -77,7 +77,7 @@ Unlike other lab courses, this one ended quite early, 1-2 week before the final 
 Summing up this lab course, it's not quite what I expected (I thought it would be super easy with close to no loading), but it's not bad, I didn't learn much, but I had some fun doing the team project. And thanks to the early due date of project, it did not contribute to the final projects nightmare week.
 
 ## Computer Architecture
-
+The course contents are pretty difficult to me, but the quizzes and the midterm is pretty easy. I got pretty good scores in all of the quizzes and exams, but because I kind of failed the final project, my overall grade isn't too good.
 
 ## Special Project
 I joined professor Hung-Yu Wei's game theory group, and honestly, I'm quite disappointed. I spent the summer and the first 2/3 participating in the weekly game theory in wireless networks study group, in which I read several papers and present 2 of them. Nothing else. I found listening to others' presentations, really served to purpose. The information you got is just too little. Preparing and presenting the 2 papers myself did help me understand the game theory techniques they used better tho.
@@ -85,3 +85,14 @@ I joined professor Hung-Yu Wei's game theory group, and honestly, I'm quite disa
 For the last 1/3 of the semester, I was given a simple problem to solve, and because the problem was to simple, I had to add many layers and elements into it (I don't even know if the things I added make sense irl), and even then, it was still pretty simple. And because I had quite a lot of things to take care in the last 1/3 of the semester, so I didn't really spend much time in it either.
 
 The professor also wouldn't meet with you weekly, not even bi-weekly. I had meet with him with a total of 3 times throughout the semester (including summer & winter vacation), while other students that join other labs were all so busy doing their things.
+
+## Varsity Sport-male Judo
+I joined the Judo club at the start of my sophomore year, because I was taking the Beginning Judo (beginner level Judo class) and I wanted to practice more. After I won the Judo Freshmen Cup (among the 3 people in my weight group) at the end of that semester, I decided to continue practicing with them. 
+
+I also participated in the National Intercollegiate Athletic Game and won the 7th place in Judo (among the 23 people in my weight group) at the start of this semester, and after that, I decided to practice more because I was so bad in the competition. Even though I won the 7th place, which was not a bad number actually, I only won 1 out of 3 games. And hearing the analysis my performance from the teachers and seniors of the club, I found that I have so much to improve, and was motivated by it. 
+
+Unfortunately, I was just so busy at the 2nd-half of the semester that I got no time to go to the practice. The teacher still gave me A+ tho. But I don't think I would join the school team again, because I don't think I would be less busy next semester. Don't think I'll join the competition again either, even if I do, I most probably won't win a better place than the previous year.
+
+So sad.
+
+Judo is super tiring tho. I would almost throw up and want to go back home in every practice.

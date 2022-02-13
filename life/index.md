@@ -1,6 +1,7 @@
 ---
 layout: meth
 has_children: true
+nav_order: 5
 ---
-# random
-some random pieces of thoughts
+# life
+pieces of my life

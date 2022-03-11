@@ -1,7 +1,7 @@
 ---
 layout: meth
 date: 2022-02-13
-parent: thoughts
+parent: life
 ---
 # Best TV series
 {: .no_toc }
@@ -26,6 +26,10 @@ I've watched some popular modern (political or not) sitcoms, like The Office, Th
 
 ## Silver
 ### Mindhunter
+Netflix adaption of a .... sort of a biography of an former FBI agent. It has a minimal plot, the story mostly focused on the interviews with the serial killers, and some discussions about them. 
+
+What I love about the series, is the vibe. The whole series is under a depressing vibe, as if a 100-kilo stone is on your chest and you can't breathe, like the vibe of the film [Dunkrik](https://en.wikipedia.org/wiki/Dunkirk_(2017_film)). Really love that kind of vibe, feels very special. The plot fits into the vibe perfectly also, tho 
+the plot is really not an emphasis in anyway. That's about all. The plot is nice, the serial killers stories are interesting, but what captures my mind is only the vibe. That's why it's only a silver to me.
 
 ### The Thick of It
 

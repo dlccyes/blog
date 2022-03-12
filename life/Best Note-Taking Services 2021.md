@@ -1,7 +1,7 @@
 ---
 layout: meth
 date: 2021-12-26
-parent: thoughts
+parent: life
 ---
 # Best Note-Taking Services 2021
 {: .no_toc }

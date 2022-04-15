@@ -3,11 +3,14 @@ layout: meth
 date: 2022-01-23
 parent: GRE and TOEFL Practices
 ---
-# 小站 GRE 01
-source: 小站 GRE Issue Topic 01
+# 小站 GRE Issue 01
+source: [小站 GRE Issue Topic 01](http://top.zhan.com/gre/write/issuereview-97932-278-4-400.html)
+
+word count: 481  
+Time：30:21
 
 ---
-**As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate**
+**As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate.**
 
 **Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.**
 

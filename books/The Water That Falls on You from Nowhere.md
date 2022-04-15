@@ -34,6 +34,6 @@ The three major settings  makes me think that, the story is specifically written
 - [x] Chinese
 - [x] being oppressed
 
-But wait Hugo is about speculative fictions! Well then, let's put in a random weird "magic" or whatever into the world! It's not like it has anything to do with the story, but it makes the story go from a BL (a very poor one, tho I've read non) to a speculative fiction! Hugo Award gets!
+But wait Hugo is about speculative fictions! Well then, let's put in a random weird "magic" or whatever into the world! It's not like it has anything to do with the story, but it makes the story go from a BL (a very poor one, tho I've read none) to a speculative fiction! Hugo Award gets!
 
-![](https://s2.loli.net/2021/12/25/xF8NkrR34P5hQcj.png)
+[![](https://i.imgur.com/mQauiep.png)](https://www.goodreads.com/review/show/3993124730)

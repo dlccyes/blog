@@ -7,7 +7,6 @@ parent: GRE and TOEFL Practices
 source: [小站 GRE Issue Topic 01](http://top.zhan.com/gre/write/issuereview-97932-278-4-400.html)
 
 word count: 481  
-Time：30:21
 
 ---
 **As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate.**

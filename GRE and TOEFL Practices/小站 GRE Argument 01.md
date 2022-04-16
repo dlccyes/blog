@@ -7,7 +7,6 @@ parent: GRE and TOEFL Practices
 source: [小站 GRE Argument Topic 01](http://top.zhan.com/gre/write/argumentreview-99503-427-5-400.html)
 
 word count: 335  
-Time：31:29
 
 ---
 **Woven baskets characterized by a particular distinctive pattern have previously been found only in the immediate vicinity of the prehistoric village of Palea and therefore were believed to have been made only by the Palean people. Recently, however, archaeologists discovered such a "Palean" basket in Lithos, an ancient village across the Brim River from Palea. The Brim River is very deep and broad, and so the ancient Paleans could have crossed it only by boat, and no Palean boats have been found. Thus it follows that the so-called Palean baskets were not uniquely Palean.**

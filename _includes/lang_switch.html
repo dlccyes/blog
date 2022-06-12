@@ -1,4 +1,5 @@
-{% assign posts = site.pages | where: "lang-ref" | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+{% assign posts = site.pages | where: "lang-ref" %} 
+{% assign posts = posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
 <!-- {% if posts.size == 0 %}
 	{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
 {% endif %} -->

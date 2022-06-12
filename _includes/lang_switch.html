@@ -2,7 +2,7 @@
 {% if posts.size == 0 %}
 	{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
 {% endif %}
-{% if posts.size > 1 %}
+{% if posts.size > 2 %}
   <footer class="lang-options">
     <details>
       <summary>View in another language:</summary>

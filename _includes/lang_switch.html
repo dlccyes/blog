@@ -10,7 +10,7 @@
         {% for post in posts %}
           {% if post.title != page.title %}
             <li><a href="{{ site.base-url }}/blog/{{ post.url }}" class="{{ post.lang }}" title="View in {{ post.lang }}">{{ post.lang }}</a></li>
-          {% endif %
+          {% endif %}
         {% endfor %}
       </ul>
     </details>

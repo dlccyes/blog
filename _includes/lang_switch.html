@@ -1,7 +1,7 @@
-{% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-{% if posts.size == 0 %}
+{% assign posts = site.pages | where: "lang-ref" | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+<!-- {% if posts.size == 0 %}
 	{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-{% endif %}
+{% endif %} -->
 {% if posts.size > 1 %}
   <footer class="lang-options">
     <details>
@@ -9,8 +9,8 @@
       <ul>
         {% for post in posts %}
           {% if post.title != page.title %}
-            <li><a href="{{ site.base-url }}/blog/{{ post.url }}" class="{{ post.lang }}" title="View in {{post.lang}}">{{ post.lang }}</a></li>
-          {% endif %}
+            <li><a href="{{ site.base-url }}/blog/{{ post.url }}" class="{{ post.lang }}" title="View in {{ post.lang }}">{{ post.lang }}</a></li>
+          {% endif %
         {% endfor %}
       </ul>
     </details>

@@ -1,7 +1,9 @@
 {% assign counter = 0 %}
 {% for post in site.pages %}
-  {% if post.lang-ref == page.lang-ref %}
-    {% assign counter = counter | plus: 1 %}
+  {% if post.lang-ref != '' %}
+    {% if post.lang-ref == page.lang-ref %}
+      {% assign counter = counter | plus: 1 %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -13,9 +15,11 @@
       <summary>View in another language:</summary>
       <ul>
         {% for post in site.pages %}
-          {% if post.lang-ref == page.lang-ref %}
-            {% if post.title != page.title %}
-              <li><a href="{{ site.base-url }}/blog/{{ post.url }}" class="{{ post.lang }}" title="View in {{ post.lang }}">{{ post.lang }}</a></li>
+          {% if post.lang-ref != '' %}
+            {% if post.lang-ref == page.lang-ref %}
+              {% if post.title != page.title %}
+                <li><a href="{{ site.base-url }}/blog/{{ post.url }}" class="{{ post.lang }}" title="View in {{ post.lang }}">{{ post.lang }}</a></li>
+              {% endif %}
             {% endif %}
           {% endif %}
         {% endfor %}

@@ -1,14 +1,22 @@
-<div class="lang-options">
-  <details>
-    <summary>View in another language:</summary>
-    <ul>
-      {% for post in site.pages %}
-        {% if post.lang-ref== page.lang-ref %}
-          {% if post.title != page.title %}
-            <li><a href="{{ site.base-url }}/blog/{{ post.url }}" class="{{ post.lang }}" title="View in {{ post.lang }}">{{ post.lang }}</a></li>
+{% for post in site.pages %}
+  {% if post.lang-ref== page.lang-ref %}
+   {% increment counter %}
+  {% endif %}
+{% endfor %}
+
+{% if counter > 1 %}
+  <div class="lang-options">
+    <details>
+      <summary>View in another language:</summary>
+      <ul>
+        {% for post in site.pages %}
+          {% if post.lang-ref== page.lang-ref %}
+            {% if post.title != page.title %}
+              <li><a href="{{ site.base-url }}/blog/{{ post.url }}" class="{{ post.lang }}" title="View in {{ post.lang }}">{{ post.lang }}</a></li>
+            {% endif %}
           {% endif %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </details>
-</div>
+        {% endfor %}
+      </ul>
+    </details>
+  </div>
+{% endif %}

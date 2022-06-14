@@ -1,6 +1,6 @@
 {% assign counter = 0 %}
 {% for post in site.pages %}
-  {% if post.lang-ref == blank %}
+  {% if post.lang-ref == %}
     {% continue %}
   {% endif %}
   {{ post.lang-ref }}
@@ -18,7 +18,7 @@
       <summary>View in another language:</summary>
       <ul>
         {% for post in site.pages %}
-          {% if post.lang-ref == blank %}
+          {% if post.lang-ref == %}
             {% continue %}
           {% endif %}
           {% if post.lang-ref != page.lang-ref %}

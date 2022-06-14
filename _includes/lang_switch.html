@@ -3,6 +3,7 @@
   {% if post.lang-ref == blank %}
     {% continue %}
   {% endif %}
+  {% post.lang-ref %}
   {% if post.lang-ref != page.lang-ref %}
     {% continue %}
   {% endif %}

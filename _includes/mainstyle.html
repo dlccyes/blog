@@ -1,13 +1,10 @@
 <head>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap" rel="stylesheet">
 </head>
 <style>
-    @font-face {
-        font-family: "Jukes";
-        font-display: swap;
-        /* unicode-range: U+000-5FF; */
-        src: url("/blog/assets/MYuppy.woff");
-    }
     @font-face {
         font-family: 'Noto Sans';
         font-style: normal;
@@ -23,7 +20,7 @@
       --pink: #ffcdcd;      
     }
     body {
-        font-family: "Noto Sans", Jukes;
+        font-family: Myuppy, "Noto Sans TC", sans-serif;
         color: var(--white-dim);
         background: var(--purp);
         font-size: 18px;
@@ -104,7 +101,7 @@
 
     /*inline code*/
     code {
-        font-family: Consolas, Hack;
+        font-family: Consolas, Hack, monospace;
         font-size: 0.8em;
         line-height: 1.4;
         margin-right: .2em;

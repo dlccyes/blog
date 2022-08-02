@@ -19,11 +19,10 @@
     --text-normal: #ead3a7;
 }
 .markdown-source-view.mod-cm6 .cm-scroller, body, .markdown-preview-view blockquote {
-    font-family: "Myuppy";
+    font-family: "Baloo Paaji 2", "Myuppy";
 }
 body{
 	color: var(--text-normal);
-    font-family: Myuppy;
 }
 .markdown-preview-view {
     font-size: 20px;
